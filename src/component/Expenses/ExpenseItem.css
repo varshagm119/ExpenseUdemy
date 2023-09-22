@@ -35,6 +35,14 @@
   border-radius: 12px;
 }
 
+.expense_btn {
+  font-weight: bold;
+  color: white;
+  background-color: darkslategray;
+  /* padding: 0.5rem; */
+  border-radius: 10px;
+}
+
 @media (min-width: 580px) {
   .expense-item__description {
     flex-direction: row;
